@@ -1,0 +1,8 @@
+class Maths {
+   function int mod(int x, int y) {
+      return x - (y * (x / y));
+   }
+   function int charToInt(int _char) {
+      return _char;
+   }
+}
